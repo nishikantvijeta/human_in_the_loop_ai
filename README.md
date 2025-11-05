@@ -39,10 +39,7 @@ frontend/
      ├── src/App.js
      └── components/
 
-⚙️ Setup
-# Clone repo
-git clone https://github.com/<your-username>/frontdesk-hil-ai.git
-cd frontdesk-hil-ai
+
 
 # Backend
 cd backend
@@ -92,3 +89,4 @@ Add auth for supervisors
 Add semantic search for knowledge base
 
 Add Slack/SMS notifications
+
