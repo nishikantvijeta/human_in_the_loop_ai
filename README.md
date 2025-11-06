@@ -11,6 +11,7 @@ Escalates to a human supervisor when unsure
 Learns from the supervisor’s response automatically
 
 Built for the Frontdesk Engineering Test using Node.js, Firebase Firestore, and React.
+<img width="1056" height="880" alt="image" src="https://github.com/user-attachments/assets/89eaa3a6-f228-40c4-9fd6-dac3ea2ae02a" />
 
 ⚙️ Tech Stack
 
@@ -89,4 +90,5 @@ Add auth for supervisors
 Add semantic search for knowledge base
 
 Add Slack/SMS notifications
+
 
